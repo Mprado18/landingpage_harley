@@ -6,7 +6,7 @@ Está landing page simples, foi desenvolvida inicialmente para aprendizado, como
 - **HTML**
 - **CSS 3**
 
-Responsivilidade para mobile aplicada, para que a experiência do usuário não seja prejudicada em caso de utilização em outros dispositivos.
+Responsividade para mobile aplicada, para que a experiência do usuário não seja prejudicada em caso de utilização em outros dispositivos.
 
 Acesse e confira a página clicando [**aqui!**](https://mprado18.github.io/landingpage_harley/ "aqui!")
 
